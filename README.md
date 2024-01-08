@@ -1,5 +1,3 @@
-# Deep_Learning_Project
-
 # Proje Başlığı
 
 :information_source: **Dersin Kodu:** [YAZ20411](https://ebp.klu.edu.tr/Ders/dersDetay/YAZ20411/716026/tr)  
