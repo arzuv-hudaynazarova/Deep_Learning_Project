@@ -113,22 +113,21 @@ gerçekleştirebilirsiniz. Herhangi bir teknik sorunla veya soruyla karşılaş�
 
 Projeyi başarıyla yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edin:
 
-Google Colab Kullanımı:
+#### Google Colab Kullanımı:
+
 Google Hesabı ile Giriş Yapma:
-
 Google Colab web sitesine gidin ve Google hesabınızla giriş yapın.
+
 Yeni Notebook Oluşturma:
-
 Yeni bir Colab notebook oluşturun. Bunu yapmak için, "File" menüsünden "New notebook" seçeneğini tıklayın.
+
 Projenin Klonlanması:
-
 Oluşturduğunuz notebook'ta, aşağıdaki komutu çalıştırarak projeyi klonlayın:
-python
-Copy code
 !git clone [Projenizin GitHub Linki]
-Örneğin: !git clone https://github.com/arzuv-hudaynazarova/Deep_Learning_Project.git
-Veri Setinin İndirilmesi ve Yüklenmesi:
 
+Örneğin: !git clone https://github.com/arzuv-hudaynazarova/Deep_Learning_Project.git
+
+Veri Setinin İndirilmesi ve Yüklenmesi:
 Veri setini bu linkten indirin.
 Google Colab'da, sol taraftaki menüden "Files" sekmesine tıklayın ve "Upload to session storage" seçeneğini kullanarak indirdiğiniz veri setini yükleyin.
 Ortamın Konfigürasyonu:
