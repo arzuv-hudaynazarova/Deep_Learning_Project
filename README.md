@@ -34,7 +34,7 @@ Projemiz, muz meyvesinin gelişim evrelerinin doğru bir şekilde sınıflandır
 
 #### Projenin Çalıştırılması:
 
-Proje, Python programlama dili ve TensorFlow, Keras,scikit-learn gibi kütüphaneler kullanılarak geliştirildi. Projenin çalıştırılması için aşağıdaki adımlar takip edildi:
+Proje, Python programlama dili ve TensorFlow, Keras, Scikit-learn gibi kütüphaneler kullanılarak geliştirildi. Projenin çalıştırılması için aşağıdaki adımlar takip edildi:
 
 Veri Seti Hazırlığı: Öncelikle, veri seti indirildi ve eğitim, test ve validation olarak ayrıldı.
 Model Geliştirme ve Eğitimi: CNN, Transfer Learning ve Yapay Sinir Ağı modelleri geliştirildi ve eğitildi.
@@ -47,17 +47,22 @@ Sonuç olarak, bu proje ile hem teorik bilgilerimi pekiştirdik hem de pratik be
 
 ## Proje Dosya Yapısı
 
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
-- **/src**
-  - **/components**
-    - `Component1.js`
-    - `Component2.js`
-  - **/utils**
-    - `utility.js`
-- **/public**
-  - `index.html`
+Projemizin dosya yapısı, projenin organizasyonunu ve her bir dosyanın amacını açıkça göstermektedir. Projemizin dosya yapısı aşağıdaki gibidir:
+
+- **/deep_learning**
+  - **/CNN**
+    - `CNN_8020.ipynb`
+    - `CNN_7030.ipynb`
+  - **/transfer_learning**
+    - `Transfer_Learning_8020.ipynb`
+    - `Transfer_Learning_7030.ipynb`
+  - **/ANN**
+    - `ANN_8020.ipynb`
+    - `ANN_7030.ipynb`
+- **/data_set**
+  - `data_set.txt`
 - `README.md`
-- `LICENSE`  
+- `requirements.txt`  
 
 
 ---
