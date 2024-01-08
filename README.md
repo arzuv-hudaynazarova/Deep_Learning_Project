@@ -117,6 +117,6 @@ Bu projeyi gerçekleştirirken birçok değerli kaynaktan yararlandım. Öncelik
 Proje hakkında herhangi bir sorunuz veya öneriniz varsa, benimle iletişime geçmekten çekinmeyin. Sorularınızı doğrudan e-posta yoluyla gönderebilirsiniz: [erdemliasena@gmail.com](mailto:erdemliasena@gmail.com). Ayrıca, projenin ilerlemesini takip etmek ve güncel bilgilere ulaşmak için LinkedIn ve Twitter hesaplarımı ziyaret edebilirsiniz:
 
 - LinkedIn: [www.linkedin.com/in/arzuv-hudaynazarova-97995924a/](https://www.linkedin.com/in/arzuv-hudaynazarova-97995924a/)
-- GitHub: [arzuv-hudaynazarova/Deep_Learning_Project](https://github.com/arzuv-hudaynazarova/Deep_Learning_Project)]
+- GitHub: [arzuv-hudaynazarova/Deep_Learning_Project](https://github.com/arzuv-hudaynazarova/Deep_Learning_Project)
 
 Her türlü geri bildirim ve işbirliği tekliflerine açığım ve projemi daha da geliştirmek için topluluktan gelen katkıları değerlendiriyorum. Bu projede elde ettiğim bilgileri ve deneyimleri paylaşmaktan ve bu alanda çalışmalarınızda size yardımcı olmaktan mutluluk duyarım.
