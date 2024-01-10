@@ -78,9 +78,9 @@ Projemizin dosya yapısı, projenin organizasyonunu ve her bir dosyanın amacın
 - **/data_set: Veri setimizi içeren klasör.**
     - *data_set.txt: Veri setimizin detaylarını içeren bir metin dosyası. Veri setimizi [bu linkten](https://drive.google.com/drive/folders/1mNSh6bzizCfcnuurP1jsIbWmnhN984Ue?usp=drive_link) indirebilirsiniz.*
 - **README.md: Projemizin genel açıklamasını, kullanım talimatlarını ve diğer önemli bilgileri içeren bir Markdown dosyası.**
-  - *requirements.txt: Projede kullanılan Python kütüphanelerinin ve gerekli bağımlılıkların listelendiği bir dosya.
+  - *requirements.txt: Projede kullanılan Python kütüphanelerinin ve gerekli bağımlılıkların listelendiği bir dosya.*
 
-Bu dosya, projenin başka bir ortamda kurulumunu ve çalıştırılmasını kolaylaştırır.*
+Bu dosya, projenin başka bir ortamda kurulumunu ve çalıştırılmasını kolaylaştırır.
 
 
 ---
