@@ -76,7 +76,7 @@ Projemizin dosya yapısı, projenin organizasyonunu ve her bir dosyanın amacın
 - ANN_8020.ipynb: ANN modelini kullanarak veri setinin %80'ini eğitim ve %20'sini test olarak kullanır.
 - ANN_7030.ipynb: Veri setinin %70'ini eğitim ve %30'unu test olarak kullanarak ANN modelini eğitir ve değerlendirir.
 - **/data_set: Veri setimizi içeren klasör.
-- data_set.txt: Veri setimizin detaylarını içeren bir metin dosyası. Veri setimizi bu linkten indirebilirsiniz.
+- data_set.txt: Veri setimizin detaylarını içeren bir metin dosyası. Veri setimizi [bu linkten](https://drive.google.com/drive/folders/1mNSh6bzizCfcnuurP1jsIbWmnhN984Ue?usp=drive_link) indirebilirsiniz.
 - **README.md: Projemizin genel açıklamasını, kullanım talimatlarını ve diğer önemli bilgileri içeren bir Markdown dosyası.
 - requirements.txt: Projede kullanılan Python kütüphanelerinin ve gerekli bağımlılıkların listelendiği bir dosya. 
 
