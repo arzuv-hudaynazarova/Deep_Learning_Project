@@ -24,7 +24,7 @@ Bu proje, Kırklareli Üniversitesi Mühendislik Fakültesi Yazılım Mühendisl
 
 #### Kullanılan Teknolojiler:
 
-Convolutional Neural Networks (CNN): Projemizde, muz meyvesinin gelişim evrelerini sınıflandırmak için özel bir CNN modeli tasarladım. Bu model, görüntü işleme ve sınıflandırma konusunda etkili sonuçlar vermektedir.
+Convolutional Neural Networks (CNN): Projemizde, muz meyvesinin gelişim evrelerini sınıflandırmak için özel bir CNN modeli tasarladık. Bu model, görüntü işleme ve sınıflandırma konusunda etkili sonuçlar vermektedir.
 Transfer Learning: Mevcut eğitilmiş modelleri kullanarak, zaman ve kaynak tasarrufu sağladık. Bu yöntem, projemizin verimliliğini artırdı.
 Yapay Sinir Ağları: Özgün bir Yapay Sinir Ağı modeli geliştirerek, veri setimiz üzerinde daha spesifik sonuçlar elde etmeyi amaçladık.
 
@@ -63,6 +63,24 @@ Projemizin dosya yapısı, projenin organizasyonunu ve her bir dosyanın amacın
   - `data_set.txt`
 - `README.md`
 - `requirements.txt`  
+
+#### Projemizin Dosya Yapısı ve Amaçları:
+- **/deep_learning: Bu klasör, derin öğrenme modellerimizi içerir.
+- **/CNN: Bu alt klasör, Evrişimli Sinir Ağları (CNN) ile ilgili Jupyter Notebook dosyalarını barındırır.
+- CNN_8020.ipynb: CNN modeli kullanarak veri setinin %80'ini eğitim ve %20'sini test olarak ayarlayıp modeli eğitir ve değerlendirir.
+- CNN_7030.ipynb: Bu dosya, veri setinin %70'ini eğitim ve %30'unu test olarak kullanarak CNN modelini eğitir ve değerlendirir.
+- **/transfer_learning: Transfer öğrenme modellerimizi içeren alt klasör.
+- Transfer_Learning_8020.ipynb: Transfer öğrenme teknikleri kullanarak, veri setinin %80'ini eğitim ve %20'sini test için kullanır.
+- Transfer_Learning_7030.ipynb: Veri setinin %70'ini eğitim ve %30'unu test olarak ayarlayarak transfer öğrenme modellerini uygular.
+- **/ANN: Yapay Sinir Ağları (ANN) ile ilgili dosyaları içerir.
+- ANN_8020.ipynb: ANN modelini kullanarak veri setinin %80'ini eğitim ve %20'sini test olarak kullanır.
+- ANN_7030.ipynb: Veri setinin %70'ini eğitim ve %30'unu test olarak kullanarak ANN modelini eğitir ve değerlendirir.
+- **/data_set: Veri setimizi içeren klasör.
+- data_set.txt: Veri setimizin detaylarını içeren bir metin dosyası. Veri setimizi bu linkten indirebilirsiniz.
+- **README.md: Projemizin genel açıklamasını, kullanım talimatlarını ve diğer önemli bilgileri içeren bir Markdown dosyası.
+- requirements.txt: Projede kullanılan Python kütüphanelerinin ve gerekli bağımlılıkların listelendiği bir dosya. 
+
+Bu dosya, projenin başka bir ortamda kurulumunu ve çalıştırılmasını kolaylaştırır.
 
 
 ---
@@ -124,29 +142,27 @@ Yeni bir Colab notebook oluşturun. Bunu yapmak için, "File" menüsünden "New 
 Projenin Klonlanması:
 Oluşturduğunuz notebook'ta, aşağıdaki komutu çalıştırarak projeyi klonlayın:
 !git clone [Projenizin GitHub Linki]
-
 Örneğin: !git clone https://github.com/arzuv-hudaynazarova/Deep_Learning_Project.git
 
 Veri Setinin İndirilmesi ve Yüklenmesi:
 Veri setini bu linkten indirin.
 Google Colab'da, sol taraftaki menüden "Files" sekmesine tıklayın ve "Upload to session storage" seçeneğini kullanarak indirdiğiniz veri setini yükleyin.
-Ortamın Konfigürasyonu:
 
+Ortamın Konfigürasyonu:
 Veri setinin doğru yolda olduğundan ve tüm dosyaların düzgün bir şekilde yüklendiğinden emin olun.
 Notebook içerisindeki kod hücrelerini sırasıyla çalıştırarak projenin kurulum ve konfigürasyon işlemlerini tamamlayın.
-Jupyter Notebook Kullanımı:
-Jupyter Notebook Kurulumu:
 
+#### Jupyter Notebook Kullanımı:
 Eğer Jupyter Notebook yüklü değilse, Jupyter'in resmi web sitesinden Jupyter Notebook'u indirip kurun.
-Projenin Klonlanması ve Ortamın Hazırlanması:
 
+Projenin Klonlanması ve Ortamın Hazırlanması:
 Terminal veya komut istemi aracılığıyla, git clone https://github.com/arzuv-hudaynazarova/Deep_Learning_Project.git komutu ile projeyi klonlayın.
 Klonlanan projenin dizinine gidin ve pip install -r requirements.txt komutu ile gerekli kütüphaneleri yükleyin.
+
 Veri Setinin Eklenmesi:
-
 Projeye ait veri setini indirin ve projenin ilgili klasörüne (örneğin /datasets) yerleştirin.
-Jupyter Notebook'ların Çalıştırılması:
 
+Jupyter Notebook'ların Çalıştırılması:
 Terminal veya komut istemcisinde jupyter notebook komutunu çalıştırarak Jupyter Notebook ortamını başlatın.
 Açılan web arayüzünde, projenin içerdiği Jupyter Notebook'ları bulun ve sırasıyla çalıştırın.
 Bu adımları takip ederek projeyi Google Colab ve Jupyter Notebook üzerinde başarıyla çalıştırabilir ve derin öğrenme modellerini eğitip test edebilirsiniz. Herhangi bir teknik sorunla karşılaşırsanız, GitHub sayfası üzerinden ya da e-posta yoluyla iletişime geçmekten çekinmeyin.
