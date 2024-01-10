@@ -67,7 +67,7 @@ Projemizin dosya yapısı, projenin organizasyonunu ve her bir dosyanın amacın
 #### Projemizin Dosya Yapısı ve Amaçları:
 - **/deep_learning: Bu klasör, derin öğrenme modellerimizi içerir.**
 - **/CNN: Bu alt klasör, Evrişimli Sinir Ağları (CNN) ile ilgili Jupyter Notebook dosyalarını barındırır.**
-       *CNN_8020.ipynb: CNN modeli kullanarak veri setinin %80'ini eğitim ve %20'sini test olarak ayarlayıp modeli eğitir ve değerlendirir.*
+       ´*CNN_8020.ipynb: CNN modeli kullanarak veri setinin %80'ini eğitim ve %20'sini test olarak ayarlayıp modeli eğitir ve değerlendirir.*´
        *CNN_7030.ipynb: Bu dosya, veri setinin %70'ini eğitim ve %30'unu test olarak kullanarak CNN modelini eğitir ve değerlendirir.*
 - **/transfer_learning: Transfer öğrenme modellerimizi içeren alt klasör.**
        *Transfer_Learning_8020.ipynb: Transfer öğrenme teknikleri kullanarak, veri setinin %80'ini eğitim ve %20'sini test için kullanır.*
