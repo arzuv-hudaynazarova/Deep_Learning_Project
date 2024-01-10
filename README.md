@@ -99,27 +99,22 @@ Projeyi yerel bir ortamda çalıştırmak için aşağıdaki adımları izleyin:
 
 ### Bağımlılıkların Kurulumu:
 
-1. **Gerekli Kütüphanelerin Yüklenmesi:**
+2. **Gerekli Kütüphanelerin Yüklenmesi:**
    - Klonlanan projenin kök dizinine gidin.
    - Terminal veya komut istemcisinde `pip install -r requirements.txt` komutunu çalıştırarak projenin ihtiyaç duyduğu kütüphaneleri yükleyin.
 
 ### Veri Setinin Hazırlanması:
 
-1. **Veri Setinin İndirilmesi:**
+3. **Veri Setinin İndirilmesi:**
    - Veri setini [bu bağlantıdan](https://drive.google.com/drive/folders/1mNSh6bzizCfcnuurP1jsIbWmnhN984Ue?usp=drive_link) indirin.
    - İndirdiğiniz veri setini projenin ilgili klasörüne yerleştirin (örneğin, `/datasets` klasörüne).
 
 ### Ortamın Konfigürasyonu:
 
-1. **Ortam Ayarlarının Doğrulanması:**
+4. **Ortam Ayarlarının Doğrulanması:**
    - İndirilen veri setinin ve kütüphanelerin doğru yüklenip yüklenmediğini kontrol edin.
    - Eğer bir hata ile karşılaşırsanız, dosya yollarını ve isimlerini kontrol edin.
 
-### Jupyter Notebook ile Çalışma:
-
-1. **Jupyter Notebook'un Başlatılması:**
-   - Terminal veya komut istemcisinde projenin kök dizinindeyken `jupyter notebook` komutunu çalıştırarak Jupyter Notebook ortamını başlatın.
-   - Açılan web arayüzünde, projenin içerdiği Jupyter Notebook dosyalarını bulun ve sırasıyla çalıştırın.
 
 Bu adımları tamamladıktan sonra, projeyi yerel ortamınızda başarıyla çalıştırabilir ve derin öğrenme modellerinin eğitimini ve testlerini 
 gerçekleştirebilirsiniz. Herhangi bir teknik sorunla veya soruyla karşılaşırsanız, lütfen GitHub sayfası üzerinden veya e-posta yoluyla iletişime geçin.
@@ -165,7 +160,7 @@ Projeye ait veri setini indirin ve projenin ilgili klasörüne (örneğin /datas
 Jupyter Notebook'ların Çalıştırılması:
 Terminal veya komut istemcisinde jupyter notebook komutunu çalıştırarak Jupyter Notebook ortamını başlatın.
 Açılan web arayüzünde, projenin içerdiği Jupyter Notebook'ları bulun ve sırasıyla çalıştırın.
-Bu adımları takip ederek projeyi Google Colab ve Jupyter Notebook üzerinde başarıyla çalıştırabilir ve derin öğrenme modellerini eğitip test edebilirsiniz. Herhangi bir teknik sorunla karşılaşırsanız, GitHub sayfası üzerinden ya da e-posta yoluyla iletişime geçmekten çekinmeyin.
+Bu adımları takip ederek projeyi Google Colab ve Jupyter Notebook üzerinde başarıyla çalıştırabilir ve derin öğrenme modellerini eğitip test edebilirsiniz. 
 
 
 ---
