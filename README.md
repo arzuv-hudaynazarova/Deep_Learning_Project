@@ -8,7 +8,7 @@
 
 ## Grup Bilgileri
 
-| Öğrenci No | Adı Soyadı           | Bölüm          	       | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
+| Öğrenci No | Adı Soyadı           | Bölüm          	         | Proje Grup No | Grup Üyelerinin Github Profilleri                 |
 |------------|----------------------|--------------------------|---------------|---------------------------------------------------|
 | 5200505059 | Arzuv Hudaynazarova  | Yazılım Mühendisliği     | PROJE_9       | [Github](https://github.com/arzuv-hudaynazarova)  |
 | 1180505810 | Yusuf Gürcan         | Yazılım Mühendisliği     | PROJE_9       | [Github](https://github.com/Joseph0grcn)          |
